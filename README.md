@@ -1,22 +1,28 @@
-# 👋 About Me
+# 👋 About Me  
+Hi, I’m Clayton J. Green. I’m a passionate developer skilled in Python, JavaScript, Java, HTML, and CSS. I have certifications in Python and web development. I’m currently learning app development to expand my skills even more. I also know how to build and fix PCs, laptops, phones, tablets, and printers. All my coding projects are organized and shared on GitHub.
 
-Hi, I'm **Clayton J. Green**, a passionate developer focused on creating websites and games. I’m currently certified in **Python** and **HTML/CSS**, while expanding my skill set with **Java**, **JavaScript**, **C++**, and **C#**. I find coding exciting and love solving problems, although I thrive best when provided with clear directions.
+I love cats, anime, and gaming. They keep me inspired and motivated. I am very organized and outgoing. I enjoy working with others but also value focused solo time. I am proficient in all Microsoft 365 apps including Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Access, Teams, and OneDrive.
 
-I'm an **ambivert**, enjoying social interaction but equally valuing my own space to focus. I believe in strong values like **respect**, **good manners**, and ensuring the physical and mental well-being of those around me.
-
-I aim to keep things lighthearted and fun, often joking around while enjoying the process of development. Coding is a balance of creativity and logic for me, and I’m always eager to learn and grow in this ever-evolving field.
+Coding is a mix of creativity and problem solving for me. I am always eager to learn and grow in this fast-changing field.
 
 ---
 
-## 🚀 Skills
-- **Certified**: 
-  - Python 
-  - HTML/CSS
-- **Currently Learning**: 
-  - Java 
-  - JavaScript (Most Proficient)
-  - C++
-  - C# 
+## 🚀 Skills  
+
+**Certified:**  
+- Python  
+- HTML/CSS  
+
+**Proficient:**  
+- JavaScript  
+- Java  
+
+**Currently Learning:**  
+- App development  
+
+**Other Skills:**  
+- Device repair (PCs, laptops, phones, tablets, printers)  
+- Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Access, Teams, OneDrive)  
 
 ---
 
