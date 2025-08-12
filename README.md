@@ -41,10 +41,10 @@ Coding is a mix of creativity and problem solving for me. I am always eager to l
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cgree791)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cgree791&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cgree791)
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Cgree791/count.svg)
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Cgree791&theme=github)
