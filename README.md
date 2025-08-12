@@ -37,14 +37,9 @@ Coding is a mix of creativity and problem solving for me. I am always eager to l
 
 ## 📊User Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cgree791&show_icons=true&theme=radical) 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cgree791)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cgree791&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Cgree791)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cgree791&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cgree791)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cgree791&layout=compact)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cgree791)  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cgree791&theme=react-dark)  
 ![Visitor Count](https://profile-counter.glitch.me/Cgree791/count.svg)
-
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Cgree791&theme=github)
